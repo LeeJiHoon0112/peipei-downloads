@@ -8,5 +8,15 @@
     "latest_version": "1.2.0",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
     "message": "Bản 1.2.0: thêm tự động cập nhật + sửa lỗi. Bấm 'Tải bản mới' để cài đè."
+  },
+  "aev": {
+    "latest_version": "1.0.7",
+    "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/AutoEditVideo.zip",
+    "message": "Đã có bản mới. Bấm 'Tải bản mới' để cập nhật (giải nén, chạy đè lên bản cũ)."
+  },
+  "yt-niche": {
+    "latest_version": "1.3.1",
+    "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPei.exe",
+    "message": "Đã có bản mới. Bấm 'Tải bản mới' để cập nhật."
   }
 }
