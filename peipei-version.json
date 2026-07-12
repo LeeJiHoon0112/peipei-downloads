@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới. Bấm 'Tải bản mới' để cài đè, giữ nguyên dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.3.2",
+    "latest_version": "1.4.0",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.3.2: tải Douyin ổn định hơn + sửa lỗi tên/chữ nghệ thuật bị đúp + font đẹp hơn cho tên & chiêu thức + nhiều cải tiến. Bấm 'Tải bản mới' để cài đè (giữ nguyên license & dữ liệu)."
+    "message": "Bản 1.4.0: TÍNH NĂNG MỚI 📖 Review Truyện Tranh (dán link → quét chương + tải hàng loạt, review series nối tiếp, lưu tiến độ, gộp 1 video hoàn chỉnh, 11 giọng VN, tốc độ 0.5-2x) + lồng tiếng video khớp nhịp hơn hẳn + sửa lỗi chữ nghệ thuật + nhiều cải tiến ổn định. Bấm 'Tải bản mới' để cài đè (giữ nguyên license & dữ liệu)."
   },
   "aev": {
     "latest_version": "1.0.7",
