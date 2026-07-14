@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới. Bấm 'Tải bản mới' để cài đè, giữ nguyên dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.2",
+    "latest_version": "1.5.3",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.2: nâng cấp BẢO MẬT — tool nay kết nối máy chủ credit qua HTTPS (mã hoá đường truyền), an toàn hơn khi dùng credit & Mua thêm. Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
+    "message": "Bản 1.5.3: Review Truyện Tranh — gộp FULL nhiều chương giờ LIỀN MẠCH (bỏ 'ở chương trước…' và 'đón xem chương sau' ở giữa, nghe như 1 bộ phim liền); thêm HIỂN THỊ SỐ PHIÊN BẢN trong app để bạn biết đang dùng bản nào. Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "aev": {
     "latest_version": "1.0.9",
