@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới. Bấm 'Tải bản mới' để cài đè, giữ nguyên dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.1",
+    "latest_version": "1.5.2",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.1: thêm 🗂 HÀNG CHỜ TẢI VIDEO — dán nhiều link Bilibili, tải TUẦN TỰ qua đêm, chọn chất lượng (1080p/720p...); Review Truyện Tranh nay NHẬN THẲNG link bài ĐĂNG ẢNH Douyin (图文) → tự làm video; hộp thoại API Key KÉO to/nhỏ + CUỘN được; sửa lỗi nguồn 'Tự động' với video PHỤ ĐỀ CỨNG (tự chọn OCR khi đã vẽ vùng dịch → hết lỗi không che sub gốc & thiếu thoại). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu."
+    "message": "Bản 1.5.2: nâng cấp BẢO MẬT — tool nay kết nối máy chủ credit qua HTTPS (mã hoá đường truyền), an toàn hơn khi dùng credit & Mua thêm. Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "aev": {
     "latest_version": "1.0.8",
