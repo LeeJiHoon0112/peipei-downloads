@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới. Bấm 'Tải bản mới' để cài đè, giữ nguyên dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.0",
+    "latest_version": "1.5.1",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.0: HỆ CREDIT — nay có thể dùng mọi tính năng AI (dịch, lồng tiếng, đọc truyện, autoscript) bằng CREDIT, KHÔNG cần tự nhập API key; kèm nút Mua thêm credit. Giao diện gọn gàng hơn (gom nhóm theo thẻ). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
+    "message": "Bản 1.5.1: thêm 🗂 HÀNG CHỜ TẢI VIDEO — dán nhiều link Bilibili, tải TUẦN TỰ qua đêm, chọn chất lượng (1080p/720p...); Review Truyện Tranh nay NHẬN THẲNG link bài ĐĂNG ẢNH Douyin (图文) → tự làm video; hộp thoại API Key KÉO to/nhỏ + CUỘN được; sửa lỗi nguồn 'Tự động' với video PHỤ ĐỀ CỨNG (tự chọn OCR khi đã vẽ vùng dịch → hết lỗi không che sub gốc & thiếu thoại). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu."
   },
   "aev": {
     "latest_version": "1.0.8",
