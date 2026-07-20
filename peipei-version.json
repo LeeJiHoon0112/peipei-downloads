@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới. Bấm 'Tải bản mới' để cài đè, giữ nguyên dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.15",
+    "latest_version": "1.5.16",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.15 — TÁCH NHẠC BẢN QUYỀN + GIỌNG ĐỌC ĐỀU + CHE SÁT HƠN:\n• 🎼 TÁCH NHẠC BẢN QUYỀN (AI): combo 'Tiếng gốc' mới ở thẻ 🔊 — chọn 'Bỏ nhạc' là AI loại NHẠC NỀN khỏi tiếng gốc (né Content ID), nền chỉ còn giọng nói gốc + giọng lồng tiếng. Model ~64MB tải 1 lần; máy có GPU NVIDIA chạy nhanh. Lưu ý: đoạn BÀI HÁT có lời nên cắt.\n• Ô 'TRẦN NÉN GIỌNG': hạ xuống 1.2 là giọng đọc ĐỀU cả video — hết cảnh đoạn nhanh đoạn chậm.\n• CHE SUB GỐC SÁT HƠN: vùng che bám theo CỤM CÂU LIỀN KỀ (câu ngắn không bị che băng rộng) + nới đuôi che ~1.2s — hết 'lóe' chữ Trung cuối câu khi hardsub mờ dần.\n• FIX chế độ Credit bị đòi API key oan khi chọn Model AI DeepSeek / Tự viết kịch bản.\n• Editor Việt hoá lựa chọn che gốc ('Lắp nền (xoá mượt)' thay 'fill').\nBấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
+    "message": "Bản 1.5.16 — LOGO KÊNH + DỌN Ổ ĐĨA + 3 FIX CHẤT LƯỢNG:\n• 🏷️ CHÈN LOGO KÊNH lên video reup: thẻ 🖼 chọn ảnh PNG nền trong suốt + 5 vị trí + chỉnh cỡ. Muốn kèm dòng 'câu chuyện hư cấu…' thì gộp chữ vào cùng ảnh logo.\n• 🕳 HẾT PHÌNH Ổ ĐĨA: khâu đọc sub cứng trước đây để lại ~27GB ảnh tạm MỖI video dài (chạy vài video là đầy ổ C/D) — nay tự dọn sạch. Khuyên bạn xoá tay các thư mục 'bilisub_ocr…' cũ trong thư mục Temp để lấy lại dung lượng.\n• Câu thoại nói về TIỀN (vd '净赚4,950') không còn bị bỏ sót không dịch.\n• Giọng đọc SỐ đúng: '4,950 tệ' đọc 'bốn nghìn chín trăm năm mươi tệ' (trước đọc '4 phẩy 95').\n• Máy mới kích hoạt key: bấm 🔄 Kiểm tra số dư là NHẬN NGAY 100k credit tháng.\nBấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "aev": {
     "latest_version": "1.1.4",
