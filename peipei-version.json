@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới. Bấm 'Tải bản mới' để cài đè, giữ nguyên dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.16",
+    "latest_version": "1.5.17",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.16 — LOGO KÊNH + DỌN Ổ ĐĨA + 3 FIX CHẤT LƯỢNG:\n• 🏷️ CHÈN LOGO KÊNH lên video reup: thẻ 🖼 chọn ảnh PNG nền trong suốt + 5 vị trí + chỉnh cỡ. Muốn kèm dòng 'câu chuyện hư cấu…' thì gộp chữ vào cùng ảnh logo.\n• 🕳 HẾT PHÌNH Ổ ĐĨA: khâu đọc sub cứng trước đây để lại ~27GB ảnh tạm MỖI video dài (chạy vài video là đầy ổ C/D) — nay tự dọn sạch. Khuyên bạn xoá tay các thư mục 'bilisub_ocr…' cũ trong thư mục Temp để lấy lại dung lượng.\n• Câu thoại nói về TIỀN (vd '净赚4,950') không còn bị bỏ sót không dịch.\n• Giọng đọc SỐ đúng: '4,950 tệ' đọc 'bốn nghìn chín trăm năm mươi tệ' (trước đọc '4 phẩy 95').\n• Máy mới kích hoạt key: bấm 🔄 Kiểm tra số dư là NHẬN NGAY 100k credit tháng.\nBấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
+    "message": "Bản 1.5.17 — 🎭 ĐA GIỌNG NAM/NỮ + 🔎 QUÉT SÂU CHỮ NGHỆ THUẬT + 🛡️ FIX GEMINI (GẤP nếu bạn dùng key Gemini riêng):\n• 🛡️ Google đổi model ngày 22/07 làm ĐỌC CHỮ NGHỆ THUẬT / ĐỌC TRUYỆN / BẢNG NHÂN VẬT lỗi hàng loạt với key Gemini riêng (BYOK) — bản này tự né, cập nhật là chạy lại bình thường (chế độ Credit đã được server vá sẵn).\n• 🎭 ĐA GIỌNG NAM/NỮ (beta): thẻ 🔊 chọn 'Lời thoại = Nhiều giọng' — AI nhận diện CỤM GIỌNG nhân vật trong audio gốc: câu nam đọc giọng NAM, câu nữ giọng NỮ, còn lại giọng Kể (model ~25MB tải 1 lần; đo thật phim 6.5h: ~95% câu đổi là đúng; video 1 người thuyết minh tự giữ 1 giọng).\n• 🔎 QUÉT SÂU chữ nghệ thuật: thư pháp trắng nền sáng / chữ khắc 3D trước bị bỏ sót nay AI dò lại — video nào cũng dịch được (tick 🔎, tốn thêm credit, tắt được).\n• 📤 Xuất SRT BẢN ĐÃ DỊCH để sửa tay từng câu rồi nạp lại lồng tiếng (0 credit dịch lại).\n• 🏷️ Logo kênh thêm kiểu BO GÓC MỀM / TRÒN AVATAR.\n• 📖 Fix tải truyện goctruyentranhvui và họ site anh em (trước báo 'thấy 1 ảnh').\n• Dịch gặp kết quả hỏng tự thử lại thông minh hơn + báo lỗi ĐÚNG nguyên nhân (hết cảnh báo 'hết quota' oan khi credit còn nguyên).\nBấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "aev": {
     "latest_version": "1.2.0",
