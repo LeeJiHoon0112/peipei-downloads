@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới. Bấm 'Tải bản mới' để cài đè, giữ nguyên dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.19",
+    "latest_version": "1.5.20",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.19 — 🏷️ ĐỔI TÊN THÀNH \"PeiPei Dub\":\n• Tool nay có tên mới: PeiPei Dub — Dịch & lồng tiếng video. Bản quyền (key), toàn bộ dữ liệu & cấu hình của bạn GIỮ NGUYÊN — cập nhật xong dùng bình thường, không cần làm gì thêm.\n• Giao diện gọn gàng + mô tả rõ ràng hơn.\nBấm 'Tải bản mới' để cài đè."
+    "message": "Bản 1.5.20 — 🎨 CHỮ NGHỆ THUẬT ĐẸP HẲN + 🔥 GIỌNG MỚI MIỄN PHÍ:\n• 🎨 Tên nhân vật / môn phái trên phim nay hiện trong BẢNG TÊN CỔ TRANG (nền tối bo góc, viền vàng, chữ vàng trang nhã) thay cho ô che phẳng + font cũ nhìn rẻ tiền. Video dài vẫn xuất nhanh như cũ.\n• 🔥 GIỌNG HOT (mới): thêm nhóm giọng đọc chất lượng cao ở đầu danh sách giọng — dùng THOẢI MÁI, KHÔNG tốn thêm credit.\n• 🈶 HẾT LOẠN XƯNG HÔ: bổ sung bảng khoá danh xưng theo giới tính + vai vế (sư huynh / sư tỷ / sư đệ / sư muội…) cho cả bước dịch lẫn bước soát lại — hết cảnh \"sư đệ\" bị dịch thành \"sư muội\". Phim hiện đại vẫn giữ cách xưng hô đời thường (anh/chị/em).\n• 🎼 BỎ NHẠC NHƯNG GIỮ TIẾNG ĐỘNG: lựa chọn mới ở thẻ 🔊 — tách nhạc nền mà vẫn còn tiếng bước chân, mưa, gió, va chạm (trước đây bỏ nhạc làm video \"chết lặng\"), kèm thanh chỉnh mức tiếng động.\n• 🔧 Sửa lỗi DỊCH HỎNG do nhà cung cấp AI đổi tên model (bạn dùng chế độ Credit đã được vá sẵn trên máy chủ).\n• ⚡ Sửa loạt lỗi ngầm: tách nhạc video dài không còn ngốn RAM gây treo máy; video quá dài báo rõ thay vì âm thầm bỏ qua; bước soát lại bản dịch không dừng giữa chừng khi 1 lô lỗi; đa giọng chạy được cả khi thiếu bảng nhân vật."
   },
   "aev": {
     "latest_version": "1.2.5",
