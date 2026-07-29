@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.27",
+    "latest_version": "1.5.30",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.27 — 🪪 BẢN QUYỀN: LUÔN CÓ CHỖ NHẬP KEY + HẾT HẠN LÀ BÁO NGAY:\n• 🪪 Nút BẢN QUYỀN / NHẬP KEY ở thanh bên trái — nhập hoặc đổi license key bất cứ lúc nào, KHÔNG phải tắt tool. Nút hiện luôn license của bạn còn bao nhiêu ngày\n• ⏰ Tool tự soát bản quyền 30 phút/lần: hết hạn giữa chừng là báo và mời nhập key mới ngay, nhưng KHÔNG cắt ngang video đang render dở\n• 💬 Thanh credit nói đúng chuyện: “License hết hạn” / “Không nối được máy chủ” thay vì lúc nào cũng “Lỗi kết nối”"
+    "message": "Bản 1.5.30 — 🎙 GIỌNG ĐỌC ĐỀU MỘT NHỊP + 🔥 4 GIỌNG CLONE MIỄN PHÍ + ⚡ NHANH HƠN HẲN:\n• 🎙 HẾT CẢNH CÂU ĐỌC GẤP CÂU ĐỌC THONG THẢ: máy đọc trả về mỗi câu kèm gần một giây im lặng ở cuối, tool cũ tính cả phần đó là lời nói nên ép đọc nhanh tới 1,6 lần — thứ bị đọc gấp lại chính là tiếng nói. Nay cắt sạch im lặng thừa rồi chọn MỘT tốc độ đọc duy nhất cho cả video; quãng nghỉ theo phim còn nhiều hơn trước\n• 🔥 4 GIỌNG LỒNG TIẾNG CHẤT LƯỢNG CAO, MIỄN PHÍ: nút '🔥 Giọng clone (tải gói)' ở thanh bên trái. Máy có card NVIDIA (từ 4GB VRAM) tải một lần là dùng được Ngọc Huyền, Ngọc Huyền 2, Thiện Tâm, Phương Thảo — chạy trên máy bạn nên KHÔNG tốn credit, không giới hạn số câu\n• 💰 TIẾT KIỆM CREDIT: mỗi lượt đọc ảnh còn 8 credit thay vì 12; Đọc chữ nghệ thuật và Quét sâu nay MẶC ĐỊNH TẮT, ai cần tự bật. Video 2 tiếng chỉ dịch + lồng tiếng tốn khoảng 1.950 credit (~51 video mỗi gói 100.000)\n• ⚡ ĐỌC PHỤ ĐỀ CỨNG NHANH GẤP 3,7 LẦN trên máy có card NVIDIA (bản cũ báo chạy GPU nhưng thực tế vẫn chạy CPU) + xuất video bằng card đồ hoạ + dịch/lồng tiếng/đọc chữ chạy nhiều luồng hơn\n• 🈶 CHỮ NGHỆ THUẬT HIỆN ĐẦY ĐỦ: bảng tên nhân vật, tên môn phái, chữ dọc trước đây có lúc bị che trắng — che mất chữ gốc mà không hiện tiếng Việt lên. Đã sửa\n• 🌍 DỊCH SANG TIẾNG ANH KHÔNG CÒN DÍNH TIẾNG VIỆT (bản dịch tiếng Việt giữ nguyên như cũ)\n• 📺 Hết hai câu phụ đề đè khít lên nhau + 🔎 tự soi lại video sau khi render xem còn sót chữ Trung không"
   },
   "aev": {
     "latest_version": "1.2.6",
