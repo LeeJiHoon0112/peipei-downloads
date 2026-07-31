@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.38",
+    "latest_version": "1.5.39",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.38 — 🎬 CHÈN INTRO/OUTRO/GIỮA VIDEO + 🛡 CẬP NHẬT AN TOÀN HƠN:\n• 🎬 CHÈN ẢNH/VIDEO vào ĐẦU + CUỐI + GIỮA video thành phẩm (thẻ 🔊 Giọng & âm thanh, ngay dưới Nhạc nền): chọn file ảnh (hiện theo số giây bạn đặt) hoặc video (giữ tiếng của nó), tự co về đúng khung hình dọc/ngang; chèn giữa chọn mốc giây tuỳ ý — ghép SIÊU NHANH không phải render lại cả phim, lỗi kiểu gì cũng không mất video\n• 🛡 CẬP NHẬT AN TOÀN: bộ cài tự ĐÓNG HẲN tool đang mở trước khi cài đè — hết lỗi mở lên báo 'Unable to allocate output buffer' khi bấm cập nhật lúc tool còn chạy (nếu đang dính lỗi này: tắt hẳn tool rồi chạy lại file Setup trong thư mục %TEMP% là hết)\n\n=== Bản 1.5.37 (nếu bạn chưa cập nhật) ===\n• 🧹 Hết 'dịch thiếu' tận gốc + 🎙 Whisper nghe bù đoạn không sub + 🗂 hàng chờ sống qua tắt máy + 🎬 tự viết kịch bản chill chữa lành + ⚡ lồng tiếng nhanh 2× + báo thiếu ổ đĩa trước khi chạy"
+    "message": "Bản 1.5.39 — 🔴 SỬA LỖI VĂNG APP khi bấm Tải video/Truyện (nhiều bạn gặp hôm nay):\n• Máy có thư mục Videos bị hỏng (thường do Windows 11 từng dời Videos vào OneDrive rồi gỡ OneDrive) → bấm nút Tải video / Truyện là app tắt ngang với lỗi 'Failed to execute script peipei_launch'. Nay tool tự chuyển sang thư mục an toàn, không bao giờ văng nữa — ai đang dính lỗi này hãy cập nhật ngay\n\n=== Bản 1.5.38 (nếu bạn chưa cập nhật) ===\n• 🎬 Chèn ẢNH/VIDEO vào ĐẦU + CUỐI + GIỮA video (thẻ 🔊, dưới Nhạc nền) — ghép nhanh không render lại phim\n• 🛡 Bộ cài tự đóng tool đang mở trước khi cài đè — hết lỗi 'Unable to allocate output buffer' khi update\n\n=== Bản 1.5.37 ===\n• 🧹 Hết 'dịch thiếu' tận gốc + 🎙 Whisper nghe bù đoạn không sub + 🗂 hàng chờ sống qua tắt máy + ⚡ lồng tiếng nhanh 2×"
   },
   "aev": {
     "latest_version": "1.2.7",
