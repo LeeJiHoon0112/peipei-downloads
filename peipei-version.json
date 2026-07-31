@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.39",
+    "latest_version": "1.5.40",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.39 — 🔴 SỬA LỖI VĂNG APP khi bấm Tải video/Truyện (nhiều bạn gặp hôm nay):\n• Máy có thư mục Videos bị hỏng (thường do Windows 11 từng dời Videos vào OneDrive rồi gỡ OneDrive) → bấm nút Tải video / Truyện là app tắt ngang với lỗi 'Failed to execute script peipei_launch'. Nay tool tự chuyển sang thư mục an toàn, không bao giờ văng nữa — ai đang dính lỗi này hãy cập nhật ngay\n\n=== Bản 1.5.38 (nếu bạn chưa cập nhật) ===\n• 🎬 Chèn ẢNH/VIDEO vào ĐẦU + CUỐI + GIỮA video (thẻ 🔊, dưới Nhạc nền) — ghép nhanh không render lại phim\n• 🛡 Bộ cài tự đóng tool đang mở trước khi cài đè — hết lỗi 'Unable to allocate output buffer' khi update\n\n=== Bản 1.5.37 ===\n• 🧹 Hết 'dịch thiếu' tận gốc + 🎙 Whisper nghe bù đoạn không sub + 🗂 hàng chờ sống qua tắt máy + ⚡ lồng tiếng nhanh 2×"
+    "message": "Bản 1.5.40 — 🔴 SỬA LỖI RENDER 'Permission denied' + 🎙 ĐỔI GIỌNG TU TIÊN:\n• 🔴 Render báo 'Permission denied' khi lưu vào thư mục Videos (DÙ ổ đĩa còn nhiều chỗ trống) — thường do Windows để thư mục Videos cho OneDrive quản lý, hoặc Windows Defender bật 'Thư mục được kiểm soát' khoá ghi Videos/Documents. Nay tool tự lưu ra thư mục tạm để không lỗi + báo rõ cách khắc phục\n• 🎙 Giọng 'Tu Tiên ProVip' bị đọc sai/nuốt từ (do lỗi giọng mẫu) đã được THAY bằng 'Giọng Tu Tiên Vip 2' đọc chuẩn hơn — cập nhật là tự đổi, KHÔNG phải tải lại gói 5,72GB\n\n=== Bản 1.5.39 (nếu bạn chưa cập nhật) ===\n• 🔴 Sửa lỗi văng app khi bấm Tải video/Truyện trên máy có thư mục Videos hỏng\n\n=== Bản 1.5.38 ===\n• 🎬 Chèn ẢNH/VIDEO vào ĐẦU/CUỐI/GIỮA video + 🛡 cập nhật an toàn hơn"
   },
   "aev": {
     "latest_version": "1.2.7",
