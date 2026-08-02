@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.41",
+    "latest_version": "1.5.42",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.41 — 🔴 SỬA DỨT ĐIỂM lỗi render 'Permission denied' vào thư mục Videos:\n• Bản 1.5.40 vẫn còn sót ca này: Windows Defender khoá thư mục THEO TỪNG ứng dụng — tool được phép nhưng ffmpeg (bộ render) vẫn bị chặn. Nay tool kiểm tra bằng chính ffmpeg; nếu bị chặn sẽ render ra thư mục tạm rồi TỰ CHUYỂN video về đúng thư mục bạn chọn — bạn không phải chỉnh gì trong Windows.\n• Ai đang dính 'Permission denied' khi render/xem trước: cập nhật bản này là chạy được ngay\n\n=== Bản 1.5.40 (nếu bạn chưa cập nhật) ===\n• 🎙 Giọng 'Tu Tiên ProVip' đọc sai/nuốt từ đã được THAY bằng 'Giọng Tu Tiên Vip 2' đọc chuẩn\n\n=== Bản 1.5.39 / 1.5.38 ===\n• 🔴 Hết văng app khi bấm Tải video/Truyện (máy Videos hỏng) + 🎬 chèn ẢNH/VIDEO đầu/cuối/giữa video + 🛡 bộ cài tự đóng tool trước khi cài đè"
+    "message": "Bản 1.5.42 — 🎙 GIỌNG NHẬT cho review truyện tranh + 📁 CHỌN Ổ tải gói + nhiều cải tiến:\n• 🎙 Review truyện tranh thêm ngôn ngữ TIẾNG NHẬT (giọng Nanami nữ / Keita nam)\n• 📁 Cho CHỌN Ổ ĐĨA khi tải gói giọng clone + gói tăng tốc GPU — đỡ đầy ổ C (chọn ổ D… ngay trong cửa sổ tải gói)\n• 🈶 Watermark/logo mờ của video gốc giờ được che LIÊN TỤC cả video (hết nhấp nháy từng chỗ)\n• 🔤 Máy card NVIDIA đời cũ đọc phụ đề bằng GPU ra rỗng → tự đọc lại bằng CPU (hết lỗi 'không dịch được' oan)\n• 🗂 Thêm NHIỀU video một lượt: hỏi + mở Editor vẽ vùng che/căn phụ đề áp cho CẢ loạt\n• ⚡ Giọng đọc bớt bị kéo chậm (video đỡ slow-mo) + dịch cô đọng hơn ở đoạn thoại dày\n• 🔁 Hết 'lặp từ' trong phụ đề + bỏ chữ watermark Latin lọt vào phụ đề"
   },
   "aev": {
     "latest_version": "1.2.7",
