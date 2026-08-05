@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.48",
+    "latest_version": "1.5.49",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.48 — 🎨 Che phụ đề gốc MỜ MỊN (hết vệt loang khi lấp nền) · 🎙 Chọn GIỌNG RIÊNG từng video trong Hàng chờ · ✅ Tích chọn XOÁ hàng loạt trong Hàng chờ · 🎧 nguồn 'Nghe thoại nhanh (giữ tên chuẩn)' · ✍ Tự động dịch bù (câu thiếu tự dịch lại, 0 credit) · 🔊 Giọng clone tự phục hồi khi lỗi GPU · 🎬 Editor xem video AV1/H.265 (Bilibili) · ⚡ OCR-GPU nhanh hơn · 🩹 sửa lỗi 'voice.wav' khi để video ở Downloads. Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu."
+    "message": "Bản 1.5.49 — 🎙 THÊM 2 giọng đọc truyện: 'Giọng tiểu thuyết 1' & 'Giọng tiểu thuyết 2' · 🔴 Sửa lỗi RENDER THẤT BẠI trên video dài (che phụ đề mờ có quá nhiều đoạn — 'Error when evaluating') · 🩹 Máy thiếu 'Visual C++ Redistributable' gây lỗi OCR/tách nhạc/nghe thoại — bản cài nay TỰ KÈM sẵn, hết lỗi · 🈳 Hết lộ chữ Trung lẫn trong bản dịch · ✍ Tự dịch bù chờ lâu hơn để vượt nghẽn mạng (hết 'dịch thiếu' tạm thời). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu."
   },
   "aev": {
     "latest_version": "1.2.7",
