@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.51",
+    "latest_version": "1.5.52",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.51 — 🇻🇳 VÁ GẤP CHO VIDEO CÓ PHỤ ĐỀ TIẾNG VIỆT CHÁY SẴN: bản 1.5.50 vẫn đọc ra chữ KHÔNG DẤU (“Tau tau, mo cia di”) khiến giọng lồng tiếng đọc sai — nay đọc ĐÚNG DẤU (“Tẩu tẩu, mở cửa đi”). Chỉ cần đặt Ngôn ngữ nguồn = Tiếng Việt là xong, không phải bật thêm gì. Ai đang làm loại video này thì NÊN CẬP NHẬT NGAY. Bản này đã bao gồm toàn bộ 31 lỗi vá ở 1.5.50 (🔑 hết cảnh phải nhập lại key khi đổi mạng/khởi động lại máy · 🎬 ghép video không còn ghi đè làm mất video gốc · ⬇ tải video đứt mạng không để lại file hỏng · 💾 tự dọn ~5GB file tạm mỗi video). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu. Nhớ TẮT tool trước khi cài."
+    "message": "Bản 1.5.52 — VÁ 8 LỖI MỌI NGƯỜI BÁO, TRONG ĐÓ 3 LỖI LÀM MẤT TIỀN OAN. 💰 Nút 'Offline (Local)' trước đây là nút bấm cho có: bấm vào tưởng dịch bằng máy mình, thực tế vẫn gửi lên máy chủ và VẪN TRỪ CREDIT — nay bấm là chạy thật trên máy bạn, không trừ credit bước dịch (các khâu AI khác vẫn tính, tool sẽ ghi rõ). 💰 Chạy lại lần hai không còn bị tính tiền lại từ đầu (ai bật 'Nghe bù' hay gặp nhất — có trường hợp 11/19 lô phải trả tiền hai lần dù không đổi gì); lần chạy lại cũng nhanh hơn hẳn vì không phải quét chữ lại. 💰 '🤖 AI đọc phụ đề (video ngắn)' chết hẳn từ bản 1.5.50 (tick vào không có gì xảy ra) — nay chạy lại bình thường. 🎙 Giọng clone không còn hỏng cả lượt (có trường hợp mất trọn 1.472/1.472 câu). ✂ 'Xoá đoạn' bấm Xem trước nay cắt thật, không còn báo đã xoá mà thực ra không cắt. 🎼 Tách nhạc lỗi nay hiện đủ lý do thay vì thông báo cụt. Thêm mới: ✍️ tự đặt lời dặn riêng cho AI dịch (gõ tay hoặc tải file .txt .md .docx .rtf) · 8 thể loại phim mới (tổng 18) · Xem trước 30 giây/1'/2' chỉ cần chọn Thể loại, không bắt vẽ vùng · thiếu điều kiện thì hiện bảng chỉ rõ thiếu gì thay vì khoá nút im lìm. Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu. Nhớ TẮT tool trước khi cài."
   },
   "aev": {
     "latest_version": "1.2.7",
