@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.53",
+    "latest_version": "1.5.54",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.53 — ⚡ NHANH HƠN HẲN. Phim 2 tiếng 8 phút đo thật: từ ~173 phút xuống 119 phút (nhanh gần 1,5 lần), riêng khâu quét chữ từ 89 phút còn 34 phút. Hai lý do: bộ ĐỌC chữ nay chạy trên card đồ hoạ (trước chỉ có bộ DÒ chạy), và khung hình đi thẳng vào bộ nhớ thay vì ghi 13 GB ảnh xuống ổ cứng rồi đọc lại — ổ cứng đỡ hao hẳn. Máy không có card rời vẫn chạy bình thường, không cần làm gì. 🐞 VÁ 3 LỖI NẶNG: (1) phim có câu chỉ hiện chữ mà không đọc thành tiếng thì giọng lồng tiếng đọc nguyên văn tiếng Trung — nặng hơn nữa, phim có chữ Latin chạy ngang màn hình thì video ra CÂM hoàn toàn; (2) bấm 'Bỏ chọn video' xong thì vùng dịch và vùng che của video cũ âm thầm áp sang video mới, làm quét trật chỗ mà không báo gì; (3) thêm người dọn rác tự động — máy dùng lâu đọng hàng nghìn thư mục tạm (có máy hơn 10.000), nay mỗi lần mở tool tự dọn dần, dữ liệu của bạn không bị đụng tới. Cài đè bản cũ như thường lệ, nhớ ĐÓNG TOOL trước khi cài."
+    "message": "Bản 1.5.54 — 🗣 GIỌNG VIỆT ĐỌC NGAY TRÊN MÁY BẠN. Từ bản này tool có 20 giọng nam nữ đủ ba miền chạy thẳng trên máy: KHÔNG cần mạng, KHÔNG cần card đồ hoạ, và KHÔNG tốn credit dù bạn lồng tiếng bao nhiêu tập. Máy văn phòng hay laptop cũ vẫn làm được. Cách dùng: mở tool, bấm nút '🗣 Bộ giọng Việt offline' để tải gói giọng (195 MB, chỉ tải một lần), xong chọn giọng có biểu tượng 🗣 hoặc 🎙 rồi bấm 🔊 Nghe thử. ✅ Bộ giọng đã được sàng kỹ: mỗi giọng cho đọc 20 câu thật hai lượt rồi chấm lại từng chữ — 5 giọng đọc sai chữ và tự chèn âm lạ đã bị loại bỏ, đồng thời thêm 4 giọng mới. Nếu bạn đang chọn một trong 5 giọng bị loại, tool TỰ chuyển bạn sang giọng sạch cùng giới tính, không phải chỉnh gì cả. 🔢 Sửa lỗi giao diện nhiều người gặp: các ô nhập số (Cỡ %, Đậm, Chậm, Tốc độ video, Tốc độ đọc, Cỡ chữ…) trước đây quá hẹp nên bị che mất số, chỉnh mà không thấy gì thay đổi. Nay mọi ô tự nới theo cỡ chữ và căn phải cho dễ đọc."
   },
   "aev": {
     "latest_version": "1.2.7",
