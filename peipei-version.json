@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.56",
+    "latest_version": "1.5.57",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.56 — 🩷 KÉO CỠ CHỮ PHỤ ĐỀ NGAY TRONG EDITOR. Mở Editor kéo-thả (nút 🎬), hộp PHỤ ĐỀ màu hồng nay có núm ở góc dưới-phải: kéo núm là chữ phóng to/thu nhỏ, chữ mẫu trong hộp hiện ĐÚNG cỡ sẽ cháy vào video — video ngang hay video dọc 9:16 đều chuẩn. Kéo giữa hộp vẫn là dời vị trí như cũ. Bấm Lưu là xong, ô 'Cỡ chữ' ngoài màn hình chính tự cập nhật theo, không phải chỉnh hai nơi. 📺 Sửa tải YouTube: máy không cài Firefox trước đây hay hiện lỗi tiếng Anh khó hiểu ('could not find firefox cookies database') — nay tool tự bỏ qua trình duyệt máy bạn không có, và khi YouTube đòi xác minh 'không phải robot' sẽ hiện đúng bảng hướng dẫn 3 cách xử lý (đăng nhập Chrome / xuất file cookies / đổi mạng). Bản này nối tiếp 1.5.55 (nút ⏹ Dừng + vá hơn 50 lỗi) — ai chưa lên 1.5.55 thì cập nhật một lần là có đủ cả hai."
+    "message": "Bản 1.5.57 — 🎬 SỬA LỖI GHÉP VIDEO RA SAI ĐỘ DÀI. Ghép 2 clip mà máy quay/nguồn tải xếp thứ tự hình-tiếng khác nhau, trước đây ra video dài gấp mấy lần (2 clip 6 phút ra 35 phút) mà tool vẫn báo ghép xong — nay tool tự nhận ra và ghép lại cho đúng, có báo rõ lý do trong ô nhật ký. 🈶 Video có logo chìm nằm ngay dải phụ đề (hay gặp ở clip tải từ Bilibili): hết bị đọc thành lời. Trước đây giọng lồng tiếng đọc lên cả chữ logo hàng nghìn lần suốt phim và tốn tiền dịch cho những dòng rác đó; phụ đề cũng hết bị dính đuôi chữ lạ. 📋 Máy chủ dịch trục trặc giữa chừng thì tool KIÊN NHẪN dịch tiếp thay vì bỏ cuộc — hết cảnh làm xong cả phim mới thấy phụ đề còn nguyên tiếng Trung. 🔁 Hết đọc lặp lại một câu hai lần. 🎙 Giọng đọc offline hết 'lảm nhảm' hoặc mất tiếng ở những câu rất ngắn (A! · Hừ · Quỳ!) — tool tự đọc lại đúng câu bị lỗi. 💳 Viết kịch bản từ video nay BÁO GIÁ trước khi chạy và cho bạn đặt mức trần, không còn âm thầm tiêu credit."
   },
   "aev": {
     "latest_version": "1.2.7",
