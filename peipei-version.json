@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.58",
+    "latest_version": "1.5.59",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.58 — 🎨 THÊM 12 KIỂU CHỮ PHỤ ĐỀ MỚI (tổng 24 kiểu). Nổi bật là 10 kiểu NỀN HỘP giống phụ đề CapCut/TikTok — chữ nằm trên nền hộp đặc, video nhìn gọn và nổi hẳn lên: Hộp trắng · Hộp đen · Hộp vàng · Hộp tím · Hộp xám · Hộp hồng · Hộp xanh lá · Hộp đỏ · Hộp đen chữ lá · Hộp trắng chữ tím; kèm 2 kiểu chữ trơn (Không viền · Chữ đen). Chọn kiểu ngay ở ô 'Kiểu chữ' như trước — ô xem trước hiện ĐÚNG màu nền sẽ vào video, nhìn phát là biết video ra thế nào. 12 kiểu cũ giữ nguyên y hệt, ai đang dùng không phải chỉnh gì cả."
+    "message": "Bản 1.5.59 — 🈶 HẾT SÓT CÂU CẢM THÁN NGẮN. Những câu 1 chữ trên phim (A!, Ơ, Hừ…) trước đây máy dò chữ hay bỏ sót: chữ gốc lộ nguyên trên hình, không được dịch, không được đọc. Nay tool có lưới vớt riêng — đọc được thì dịch + lồng tiếng như câu thường, chữ mờ quá thì vẫn CHE sạch đúng khoảnh khắc đó; tốc độ làm video không đổi. 🎬 CHÈN INTRO RIÊNG TỪNG VIDEO trong hàng chờ: mỗi dòng video có nút 🎬 Intro để chọn ảnh/video chèn đầu riêng cho video đó (nút ✖ để bỏ), tắt máy mở lại vẫn nhớ. 🎬 Thêm video vào hàng chờ nay lấy ĐÚNG cấu hình đang chọn trên màn hình — hết cảnh chèn intro/giọng đọc 'lúc được lúc không' vì máy nhớ nhầm cấu hình cũ. 🎬 File chèn bị xoá/di chuyển thì chỉ bỏ riêng chỗ đó và báo rõ tên file — không còn mất luôn cả intro lẫn outro."
   },
   "aev": {
     "latest_version": "1.2.7",
