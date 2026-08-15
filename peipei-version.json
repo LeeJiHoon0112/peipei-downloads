@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.62",
+    "latest_version": "1.5.63",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.62 — SỬA GẤP LỖI CỦA 1.5.61: một số phim (câu phụ đề dài) bấm render bị ĐỨNG IM 0% mãi không xong. Nếu bạn đang dính: cập nhật bản này là chạy lại bình thường, phần đã dịch vẫn còn (chạy lại không tốn credit dịch). Đánh đổi kỹ thuật: tính năng 'phủ mờ nhẹ chữ to khó xoá' của 1.5.61 chính là thứ gây treo nên tạm gỡ — vài câu chữ rất to có thể còn thấy mờ vệt như các bản trước, đội kỹ thuật đang làm lại theo cách khác. Mọi cải tiến còn lại của 1.5.61 (phim dài không chết giữa chừng, giọng đọc sạch, khung che bám cỡ chữ, báo lỗi nói thật…) GIỮ NGUYÊN."
+    "message": "Bản 1.5.63 — DỊCH ĐỦ CÂU HƠN + BLUR GỌN ĐẸP. 🈶 CÂU NGẮN KHÔNG CÒN BỊ NUỐT: phim Bilibili có watermark nằm cùng hàng phụ đề từng làm các câu đáp ngắn (Ừ, Được, Cái gì…) biến mất không dịch không đọc — nay đọc đủ (phim thử 3 tiếng cứu lại ~800 câu). Lần chạy ĐẦU sau update sẽ đọc chữ lại từ đầu để nhận bản vá — các lần sau nhanh như cũ. 🌫 CHẾ ĐỘ LÀM MỜ bám cỡ chữ: hết cảnh 'xem trước thì đẹp mà cả video mờ to gần nửa màn' — dải mờ nay chỉ to đúng bằng nhóm câu đang hiện; vài câu 2-3 dòng hiếm hoi mới bật dải cao rồi tắt ngay. 🌍 DỊCH SANG TIẾNG NGOÀI (Tây Ban Nha, Bồ Đào Nha, Pháp, Đức, Indonesia): thêm lưới chặn ca AI trả nhầm tiếng Anh giữa phim — tool tự phát hiện và xin dịch lại đúng tiếng bạn chọn; ai từng dính phim lẫn tiếng Anh chỉ cần chạy lại là tự sạch."
   },
   "aev": {
     "latest_version": "1.2.7",
