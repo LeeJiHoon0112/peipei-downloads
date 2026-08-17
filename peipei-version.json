@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.64",
+    "latest_version": "1.5.65",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.64 — GIỌNG BÁM HÌNH CẢ PHIM (Khớp giọng v2). 🎯 HẾT 'PHIM CÀNG DÀI GIỌNG CÀNG LỆCH': video được đổi tốc độ TRƯỚC (như CapCut) rồi mới đọc phụ đề, dịch, lồng tiếng — phụ đề xuất ra khớp đúng video thành phẩm; phim dài nay khớp theo TỪNG CÂU (phim thử 3 tiếng: câu giọng trễ hơn 0,4 giây từ 21% xuống 6%, cuối phim vẫn khớp như đầu phim; video chỉ dài thêm ~6%). ✂ GỌN CÂU TRÀN (mới, có ô bật/tắt cạnh Khớp giọng): câu nào giọng đọc dài hơn chỗ trống, AI viết ngắn lại giữ đúng ý/tên/số rồi đọc lại — video ít phải chậm hơn. Lượt AI này MIỄN PHÍ, KHÔNG trừ credit (nhãn trong tool bản này còn ghi 'tốn credit' là chữ cũ — bản sau sửa lại). ▶ BẤM BẮT ĐẦU có bảng chọn: xuất video 720p / 1080p / 2K / 4K + thư mục lưu. 🎚 Phim dài không còn ghép video lâu bất thường (tiếng gốc/nhạc được xử lý theo lô). Lưu ý: lần chạy ĐẦU sau update, phim để tốc độ khác 1.0 sẽ đọc chữ lại một lần (khớp trục mới) — các lần sau nhanh như cũ."
+    "message": "Bản 1.5.65 — HẾT 'GIỌNG ĐỌC LỆCH TIẾNG GỐC CÀNG VỀ SAU CÀNG NHIỀU'. 🎚 Nhiều video tải từ Bilibili có mốc thời gian tiếng lệch nhẹ (~0,05%) so với hình; bản trước để tiếng gốc trôi dần so với hình và giọng đọc (phim 2 tiếng rưỡi lệch tới 4 giây ở cuối). Nay tiếng gốc bám đúng mốc như trình phát: đo lại trên chính phim đó, giọng đọc và tiếng gốc khớp đều từ đầu tới cuối; video bình thường (không lệch mốc) ra kết quả y hệt bản trước. Khi gặp file như vậy, tool ghi 1 dòng ℹ trong nhật ký để bạn biết. ✂ Gọn câu tràn: nhãn nay ghi đúng 'MIỄN PHÍ' — lượt AI này không trừ credit (đã áp dụng trên máy chủ từ 17/08). Lưu ý: nếu bạn để 'Tốc độ video' khác 1.0, phim cũ chạy lại sẽ đọc chữ lại một lần (khớp trục mới) — các lần sau nhanh như thường."
   },
   "aev": {
     "latest_version": "1.2.7",
