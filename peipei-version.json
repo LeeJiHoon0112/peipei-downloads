@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.66",
+    "latest_version": "1.5.67",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.66 — ✍ ĐỌC ĐÚNG PHỤ ĐỀ KIỂU 'GÕ CHỮ' (video ngắn có chữ Trung hiện dần từng chữ). Trước đây máy quét coi nửa câu và cả câu là hai câu khác nhau nên dịch và đọc lặp kiểu 'Cậu không sao' rồi 'Cậu không sao thì lau đi'. Nay tool tự nhận ra kiểu phụ đề này, gộp các mảnh đang gõ thành một câu trọn và quét dày hơn một chút (video 56 giây: từ 16 lên 32/35 câu đúng, hết mảnh thừa). Phim thường không thay đổi gì (đo lại: y hệt từng câu). Lưu ý: chạy lại video cũ sẽ đọc chữ lại một lần. 🎬 Chèn đầu bằng ẢNH nay cho phép ngắn tới 0,1 giây (trước tối thiểu 0,5) — làm intro 'nháy' logo 0,2 giây được. 🗣 Giọng Việt offline có thêm giọng nam 'Adam2' (chọn trong danh sách giọng VieNeu, không tốn credit)."
+    "message": "Bản 1.5.67 — 🖥 MÁY ĐỠ NÓNG khi đọc phụ đề bằng card đồ hoạ. Trước đây trong lúc đọc chữ (OCR) Task Manager báo CPU 50-70% dù thực ra các luồng CPU chỉ ngồi 'quay chờ' card trả kết quả; nay tắt kiểu chờ đó: đo trên máy 12 luồng, CPU toàn máy 48% → 30%, riêng bộ đọc chữ 35% → 10%, tốc độ đọc không đổi và kết quả y hệt từng câu. Máy không có card đồ hoạ không thay đổi gì. 🗣 Giọng Việt offline có thêm giọng nữ 'Ngọc Huyền 4.0' (chọn trong danh sách giọng VieNeu, không tốn credit)."
   },
   "aev": {
     "latest_version": "1.2.7",
