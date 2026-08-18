@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.65",
+    "latest_version": "1.5.66",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.65 — HẾT 'GIỌNG ĐỌC LỆCH TIẾNG GỐC CÀNG VỀ SAU CÀNG NHIỀU'. 🎚 Nhiều video tải từ Bilibili có mốc thời gian tiếng lệch nhẹ (~0,05%) so với hình; bản trước để tiếng gốc trôi dần so với hình và giọng đọc (phim 2 tiếng rưỡi lệch tới 4 giây ở cuối). Nay tiếng gốc bám đúng mốc như trình phát: đo lại trên chính phim đó, giọng đọc và tiếng gốc khớp đều từ đầu tới cuối; video bình thường (không lệch mốc) ra kết quả y hệt bản trước. Khi gặp file như vậy, tool ghi 1 dòng ℹ trong nhật ký để bạn biết. ✂ Gọn câu tràn: nhãn nay ghi đúng 'MIỄN PHÍ' — lượt AI này không trừ credit (đã áp dụng trên máy chủ từ 17/08). Lưu ý: nếu bạn để 'Tốc độ video' khác 1.0, phim cũ chạy lại sẽ đọc chữ lại một lần (khớp trục mới) — các lần sau nhanh như thường."
+    "message": "Bản 1.5.66 — ✍ ĐỌC ĐÚNG PHỤ ĐỀ KIỂU 'GÕ CHỮ' (video ngắn có chữ Trung hiện dần từng chữ). Trước đây máy quét coi nửa câu và cả câu là hai câu khác nhau nên dịch và đọc lặp kiểu 'Cậu không sao' rồi 'Cậu không sao thì lau đi'. Nay tool tự nhận ra kiểu phụ đề này, gộp các mảnh đang gõ thành một câu trọn và quét dày hơn một chút (video 56 giây: từ 16 lên 32/35 câu đúng, hết mảnh thừa). Phim thường không thay đổi gì (đo lại: y hệt từng câu). Lưu ý: chạy lại video cũ sẽ đọc chữ lại một lần. 🎬 Chèn đầu bằng ẢNH nay cho phép ngắn tới 0,1 giây (trước tối thiểu 0,5) — làm intro 'nháy' logo 0,2 giây được. 🗣 Giọng Việt offline có thêm giọng nam 'Adam2' (chọn trong danh sách giọng VieNeu, không tốn credit)."
   },
   "aev": {
     "latest_version": "1.2.7",
