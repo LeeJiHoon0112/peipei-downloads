@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.70",
+    "latest_version": "1.5.71",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "Bản 1.5.70 — 📥 Tải video Bilibili: máy chủ Bilibili cắt kết nối giữa chừng (lỗi 'bytes read… Giving up') thì tool TỰ ĐỔI máy chủ khác và tải tiếp từ chỗ đứt — hết cảnh bấm tải lại nhiều lần. ⬇ Hàng chờ: nút 'Áp cho tất cả' nay áp thể loại + vùng cho CẢ video thêm từng cái bằng nút ➕ (video bạn đã căn tay bằng Editor vẫn được giữ nguyên). 🚧 Dịch đủ 100% mới ghép video: hết cảnh video ra lò còn câu tiếng Trung — thiếu câu nào tool tự dịch bù, máy chủ AI trục trặc thì tool tự đợi rồi dịch tiếp; kẹt thật mới dừng và báo rõ lý do (bản dịch luôn được giữ, chạy lại không tốn lại credit phần đã dịch). 📝 Dịch chuẩn thuật ngữ + xưng hô hơn cho 6 thể loại: Đô thị, Ngôn tình, Kiếm hiệp, Tận thế, Tu tiên, Ẩm thực."
+    "message": "Bản 1.5.71 — 🌐 GIA HẠN ONLINE ngay trong tool: hộp 🪪 Bản quyền có nút mở trang gia hạn — khi mua gói mới chỉ cần dán key CŨ, key mới tự cộng số ngày còn dư và credit còn dư tự chuyển sang; key sắp hết hạn tool sẽ nhắc trước. 🖥 Máy có card NVIDIA mà render lại chạy CPU: tool nay nói rõ LÝ DO ngay trong nhật ký — thường chỉ cần CẬP NHẬT DRIVER NVIDIA là render bằng GPU trở lại (card MX/GT 1030 không có bộ nén video, chạy CPU là bình thường); kèm file chẩn đoán peipei_chuandoan_gpu.txt để gửi hỗ trợ khi cần. 📜 SỔ NHẬT KÝ LÀM VIDEO: nút '📜 Nhật ký làm video' xem lại từng video làm mất bao lâu, khâu nào tốn giờ nhất (đọc chữ · dịch · tạo giọng · ghép video); cuối mỗi video có dòng tổng thời gian. Bạn nào còn bản cũ hơn 1.5.70 hãy cập nhật để nhận luôn bản vá tải Bilibili (máy chủ chặn giữa chừng thì tool tự đổi máy chủ tải tiếp)."
   },
   "aev": {
     "latest_version": "1.2.7",
