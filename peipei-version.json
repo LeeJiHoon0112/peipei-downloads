@@ -10,9 +10,9 @@
     "message": "Bản 1.5.71 — 🌐 GIA HẠN ONLINE ngay trong tool: hộp 🪪 Bản quyền có nút mở trang gia hạn — khi mua gói mới chỉ cần dán key CŨ, key mới tự cộng số ngày còn dư và credit còn dư tự chuyển sang; key sắp hết hạn tool sẽ nhắc trước. 🖥 Máy có card NVIDIA mà render lại chạy CPU: tool nay nói rõ LÝ DO ngay trong nhật ký — thường chỉ cần CẬP NHẬT DRIVER NVIDIA là render bằng GPU trở lại (card MX/GT 1030 không có bộ nén video, chạy CPU là bình thường); kèm file chẩn đoán peipei_chuandoan_gpu.txt để gửi hỗ trợ khi cần. 📜 SỔ NHẬT KÝ LÀM VIDEO: nút '📜 Nhật ký làm video' xem lại từng video làm mất bao lâu, khâu nào tốn giờ nhất (đọc chữ · dịch · tạo giọng · ghép video); cuối mỗi video có dòng tổng thời gian. Bạn nào còn bản cũ hơn 1.5.70 hãy cập nhật để nhận luôn bản vá tải Bilibili (máy chủ chặn giữa chừng thì tool tự đổi máy chủ tải tiếp)."
   },
   "aev": {
-    "latest_version": "1.2.7",
-    "download_url": "https://github.com/LeeJiHoon0112/auto-edit-video/releases/download/v1.2.7/AutoEditVideo.exe",
-    "message": "Ban 1.2.7 - CHINH DUOC CO CHU PHU DE trong trang Render (o Co chu + 5 nut dat nhanh, vien tu day len theo chu; Shorts 9:16 nen de 68-84). Bam Cap nhat ngay / Click Update now."
+    "latest_version": "1.2.8",
+    "download_url": "https://github.com/LeeJiHoon0112/auto-edit-video/releases/download/v1.2.8/AutoEditVideo.exe",
+    "message": "Ban 1.2.8 - SUA loi de ffmpeg canh app ma van bao khong tim thay + loi video render ra nam trong thu muc tam roi mat khi dong app. Bam Cap nhat ngay / Click Update now."
   },
   "yt-niche": {
     "latest_version": "1.3.1",
