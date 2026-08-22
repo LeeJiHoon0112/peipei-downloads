@@ -10,9 +10,9 @@
     "message": "Bản 1.5.72 — 🧊 HẾT ĐỨNG GIỮA CHỪNG: nếu giọng đọc Edge, máy chủ giọng clone hoặc ffmpeg không trả lời, tool KHÔNG còn đứng im vô tận nữa — nó chờ có hạn rồi báo đúng bệnh và cách xử lý; nút ⏹ Dừng nay bấm là ăn ngay cả khi tool đang câm. 📊 TOOL NÓI THẬT THỜI GIAN: thanh tiến độ ghi rõ đang làm khâu gì bằng tiếng Việt và CÒN KHOẢNG BAO LÂU; lúc nạp model giọng (hay đứng im lâu) tool nói rõ 'đang chạy, không phải treo'; máy không có card NVIDIA mà chọn tách nhạc sẽ được nhắc trước là sẽ rất lâu. 🔤 SỬA LỖI QUAN TRỌNG: phụ đề SRT tiếng ANH (hoặc tiếng khác không phải tiếng Trung) nạp vào tool bị hiểu nhầm là 'đã dịch rồi' nên tool bỏ qua bước dịch và đọc thẳng tiếng Anh bằng giọng Việt. Nay tool nhìn đúng ô 'Ngôn ngữ nguồn' bạn chọn: SRT tiếng Anh sẽ được DỊCH bình thường, còn SRT tiếng Việt bạn đã sửa tay vẫn được giữ nguyên không dịch lại. 🍪 Ô Cookies trỏ sai file nay báo đỏ ngay (trước đây tool im lặng bỏ qua rồi tải về bản xem thử vài phút thay vì phim đầy đủ). 🔊 Nút Nghe thử giọng không còn kẹt '⏳ Đang tạo…' mãi. 🎙 THÊM NGUỒN GIỌNG VIVIBE (vivibe.app): vào 🔑 API Keys dán 'Vivibe API key' của bạn (tự tạo miễn phí tại vivibe.app › API Keys), muốn thêm giọng nào thì mở web Vivibe chọn giọng › bấm 'API Code' và copy mã giọng vào ô 'Vivibe giọng thêm' — giọng sẽ hiện trong danh sách giọng đọc như các giọng khác. Tool không kèm sẵn tài khoản Vivibe: bạn dùng tài khoản và credit của chính mình."
   },
   "aev": {
-    "latest_version": "1.2.8",
-    "download_url": "https://github.com/LeeJiHoon0112/auto-edit-video/releases/download/v1.2.8/AutoEditVideo.exe",
-    "message": "Ban 1.2.8 - SUA loi de ffmpeg canh app ma van bao khong tim thay + loi video render ra nam trong thu muc tam roi mat khi dong app. Bam Cap nhat ngay / Click Update now."
+    "latest_version": "1.2.9",
+    "download_url": "https://github.com/LeeJiHoon0112/auto-edit-video/releases/download/v1.2.9/AutoEditVideo.exe",
+    "message": "Ban 1.2.9 - Khong can tu cai FFmpeg nua: thieu la app hoi va TU TAI giup ban (1 nut, mot lan duy nhat). Tab Cai dat co nut Tai FFmpeg tu dong. Bam Cap nhat ngay / Click Update now."
   },
   "yt-niche": {
     "latest_version": "1.3.1",
