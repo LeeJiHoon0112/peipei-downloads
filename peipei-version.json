@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.74",
+    "latest_version": "1.5.75",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "🚧 1.5.74 — HẾT KẸT VÌ MỘT CÂU KHÓ: trước đây video 2-3 tiếng có thể không ra thành phẩm chỉ vì DUY NHẤT MỘT câu AI dịch mãi không được. Nay tool tự cứu: nghe lại đúng đoạn tiếng đó rồi dịch lại (chỉ tin khi khớp chữ trên hình); vẫn không được thì bỏ riêng câu đó khỏi phụ đề + lồng tiếng nhưng VẪN CHE chữ gốc — bạn luôn nhận được video hoàn chỉnh. Video đang làm dở: bấm 'Chạy lại' cùng video, phần đã dịch không tính lại credit."
+    "message": "🎨 1.5.75 — BLUR BÓ SÁT TỪNG CÂU: miếng che chữ gốc không còn là mảng mờ to đùng trùm mặt diễn viên nữa. Tool nhìn từng khung hình, dò đúng nét chữ Trung đang hiện rồi chỉ che vừa đúng chỗ đó theo từng câu — kéo vùng dịch to cỡ nào thì miếng che vẫn bám sát chữ; đoạn không có chữ thì hình SẮC NÉT (trước đây mờ suốt cả dải). Logo/watermark tĩnh vẫn giữ nguyên luật cũ. Đo trên phim 4h18: 0 câu sót chữ Trung, dựng video còn NHANH HƠN bản cũ (51 phút so với 126 phút); sub màu, sub 2 dòng, video dọc đều kín."
   },
   "aev": {
     "latest_version": "1.2.9",
