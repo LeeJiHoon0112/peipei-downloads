@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.87",
+    "latest_version": "1.5.88",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "🔋 MÁY KHÔNG NGỦ GIỮA CHỪNG: laptop để yên 15-30 phút là Windows cho máy ngủ, việc đang chạy đứng im, máy dậy thì khâu dựng video còn bị ngắt oan. Nay tool giữ máy thức trong lúc đọc chữ, tạo giọng, dựng video và tải hàng chờ (màn hình vẫn tắt được, gập nắp vẫn ngủ, laptop nên cắm sạc), và khâu dựng video không còn bị ngắt oan sau khi máy ngủ dậy. 🗣 GIỌNG VIỆT OFFLINE HẾT KẸT Ở 'NẠP MODEL GIỌNG': bước nạp trước đây còn lén hỏi một máy chủ bên ngoài để lấy một file không dùng tới, mạng chập chờn là đứng im rất lâu ở 0%. Nay bỏ hẳn, chạy thuần trên máy; nhật ký ghi rõ đang nạp từ đâu, máy còn bao nhiêu RAM, nạp mất mấy giây, và nhãn 'Nạp model giọng' dừng đúng lúc nạp xong thay vì ôm luôn câu đọc đầu tiên. 🎙 LỒNG TIẾNG BÁO ĐÚNG GIỌNG NÀO HỎNG: nhật ký ghi giọng kể và giọng nam/nữ đang dùng; khi giọng nam/nữ Edge treo (giọng này cần mạng) thì lỗi nói đúng là Edge chứ không đổ cho bộ giọng offline như trước, đỡ đi tải lại gói vô ích. 🎬 XUẤT VIDEO CÓ NHÃN NGAY TỪ ĐẦU: 'Xuất video 0%' hiện ngay khi bắt đầu dựng, hết cảnh thanh trạng thái kẹt ở 'Tạo giọng 100%' trong lúc tool đang chuẩn bị tiếng, và số phút 'còn ~' không bị thổi phồng trong những phút đầu."
+    "message": "🗣 GIỌNG VIỆT OFFLINE: GỠ 3 GIỌNG HAY ĐỌC LỖI. Thùy Dung và Xuân Vĩnh đọc sai chữ nhiều hơn hẳn các giọng còn lại, còn Minh Triết hay biến câu ngắn thành âm thanh vô nghĩa kéo dài vài giây, nên cả ba đã bỏ khỏi danh sách chọn giọng; còn 21 giọng Việt offline. Bạn đang dùng một trong ba giọng này thì không phải làm gì: mở tool là ô chọn giọng tự đổi sang một giọng cùng giới đọc chuẩn (thích giọng khác thì chọn lại); video đã xếp trong hàng chờ và truyện tranh đã lưu với giọng cũ vẫn chạy bình thường bằng giọng thay thế, không báo lỗi."
   },
   "aev": {
     "latest_version": "1.2.9",
