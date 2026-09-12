@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.88",
+    "latest_version": "1.5.89",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "🗣 GIỌNG VIỆT OFFLINE: GỠ 3 GIỌNG HAY ĐỌC LỖI. Thùy Dung và Xuân Vĩnh đọc sai chữ nhiều hơn hẳn các giọng còn lại, còn Minh Triết hay biến câu ngắn thành âm thanh vô nghĩa kéo dài vài giây, nên cả ba đã bỏ khỏi danh sách chọn giọng; còn 21 giọng Việt offline. Bạn đang dùng một trong ba giọng này thì không phải làm gì: mở tool là ô chọn giọng tự đổi sang một giọng cùng giới đọc chuẩn (thích giọng khác thì chọn lại); video đã xếp trong hàng chờ và truyện tranh đã lưu với giọng cũ vẫn chạy bình thường bằng giọng thay thế, không báo lỗi."
+    "message": "📥 CÔNG CỤ 'TẢI VIDEO HÀNG LOẠT' HẾT KẸT Ở BẢN CŨ. Máy chủ của công cụ đó đã ngừng nhận các bản cũ, mà phần tự cập nhật bên trong nó lại không tải nổi bản bắt buộc, nên nhiều bạn mở lên chỉ thấy báo 'phiên bản này không còn được hỗ trợ' rồi không dùng được gì. Nay bấm nút 📥 Tải video hàng loạt: máy chưa có thì tool tải và cài bản mới nhất bên mình đang có; máy đang có bản cũ thì tool nhận ra và MỜI bạn cài bản mới — bấm đồng ý là tool tải rồi mở bộ cài giúp, bạn chỉ cần đóng công cụ đó lại trước khi cài. Tài khoản và cài đặt trong công cụ nằm ngoài thư mục cài nên vẫn giữ nguyên; bộ cài của công cụ đó tự giữ bản cũ lại làm bản sao lưu. Huỷ giữa chừng hay cài lỗi thì tool trả bản đang dùng về như trước khi cài — nhưng bản cũ thì vẫn có thể bị công cụ đó từ chối cho dùng, nên cài bản mới vẫn là đường duy nhất chạy tiếp."
   },
   "aev": {
     "latest_version": "1.2.9",
