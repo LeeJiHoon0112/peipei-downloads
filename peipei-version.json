@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.94",
+    "latest_version": "1.5.95",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "🎙 THÊM 2 GIỌNG ĐỌC OFFLINE MỚI. Nhóm giọng riêng chạy offline có thêm 2 giọng: 'Giọng Kể Chuyện Ma' (giọng nam) và 'Lạc Phi' (giọng nữ). Tìm trong danh sách giọng, ngay sau 'Tu Tiên Siêu Hay': '🎙 Giọng Kể Chuyện Ma (nam · giọng riêng · offline)' và '🎙 Lạc Phi (nữ · giọng riêng · offline)'. Hai giọng này đọc thẳng trên máy bạn: không cần card NVIDIA, không cần gói giọng clone, phần đọc giọng không tốn credit. Máy đã có bộ giọng Việt offline thì cập nhật xong là dùng được ngay, không phải tải lại. Máy chưa có thì bấm nút '🗣 Giọng Việt offline (tải gói)' ở thanh bên để tải một lần (khoảng 185 MB)."
+    "message": "🗣 XƯNG HÔ ĐÚNG HƠN. Dịch sang tiếng Việt xưng hô đúng hơn rõ rệt (anh/em, cha mẹ/con, sư phụ/đồ đệ…), không tốn thêm credit. Thêm ô 'Lối xưng hô' ngay dưới ô 'Thể loại video': Tự nhận (nên dùng), Cổ trang, Hiện đại. 📚 THÊM 21 THỂ LOẠI DỊCH MỚI (tổng 39). Phim tu tiên giữ lối ta – ngươi. 📺 SỬA LỖI KHÔNG TẢI ĐƯỢC ĐA SỐ VIDEO YOUTUBE. 🎙 THÊM GIỌNG VIỆT OFFLINE 'Giọng Phim Ngắn' (giọng nữ). Tìm trong danh sách giọng, ngay sau 'Lạc Phi': '🎙 Giọng Phim Ngắn (nữ · giọng riêng · offline)'. Giọng offline đọc thẳng trên máy bạn: không cần card NVIDIA, không cần gói giọng clone, không tốn credit. Máy đã có bộ giọng Việt offline thì cập nhật xong là dùng được ngay, không phải tải lại. 🧩 CẬP NHẬT MINI APP TẢI VIDEO HÀNG LOẠT LÊN 0.3.35. Nút 📥: máy chưa có thì tool tải và cài bản 0.3.35; máy đã có bản gần đây thì mini app tự hỏi cập nhật, không cần cài lại qua tool."
   },
   "aev": {
     "latest_version": "1.2.9",
