@@ -10,7 +10,7 @@
     "message": "⏸ DUYỆT NHÂN VẬT VÀ PHỤ ĐỀ NGAY TRONG TOOL: tích ô '⏸ Dừng cho tôi duyệt' cạnh nút ▶ Bắt đầu dịch, tool sẽ dừng 2 lần cho bạn sửa: ① bảng nhân vật (tên, giới tính, cách xưng hô) TRƯỚC khi dịch; ② phụ đề đã dịch TRƯỚC khi lồng tiếng — bấm đúp để sửa câu, Tìm → Thay cho nhiều câu một lúc, bấm ô Thời gian để xem đúng đoạn video của câu. Khi chọn lồng tiếng 'Nhiều giọng nam/nữ', tool tự nghe giọng gốc từng câu, đánh dấu ⚠ câu nghi sai nam/nữ; đổi giọng 1 câu thì tool hỏi đổi luôn các câu cùng giọng. Chữ bạn sửa được nhớ cho lần chạy sau. Sửa ở bước này không tốn credit. Ô mặc định tắt; Hàng chờ và 👁 Xem trước vẫn chạy thẳng, không dừng. 📱 VIDEO DỌC CÓ PHỤ ĐỀ NẰM CAO: khi tool tự dò vùng chữ gốc để làm mờ, dải mờ nay ôm sát dòng chữ thay vì kéo xuống tận đáy khung hình.",
     "chu_chay": [
       "🎉 Chúc cả nhà tháng 11 thật vui vẻ, nhiều sức khoẻ và làm video thật bùng nổ! Cảm ơn mọi người đã luôn đồng hành cùng PeiPei ❤️",
-      "✅ Đã có bản 1.5.104: xưng hô ổn định hơn (tự có bảng nhân vật dự phòng) và chế độ Credit luôn dịch bằng AI tiết kiệm credit nhất — cập nhật để dùng nhé.",
+      "✅ Đã có bản 1.5.105: duyệt nhân vật và phụ đề ngay trong tool (tích ô ⏸ Dừng cho tôi duyệt) + dải mờ video dọc gọn hơn — cập nhật để dùng nhé.",
       "⚠️ Lưu ý: Tool chỉ hỗ trợ dịch và lồng tiếng. Mọi vấn đề về bản quyền video, bên admin sẽ không chịu trách nhiệm — người dùng tự chịu trách nhiệm với nội dung mình đăng.",
       "💬 Cần hỗ trợ? Nhắn Zalo 0827 298 265 — bấm vào dòng này để mở Zalo"
     ]
