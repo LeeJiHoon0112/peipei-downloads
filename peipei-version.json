@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.107",
+    "latest_version": "1.5.108",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "📥 TẢI VIDEO HÀNG LOẠT BẢN MỚI: bấm nút '📥 Tải video hàng loạt' là tool cài thẳng bản mới nhất của công cụ tải phim bộ hàng loạt (khoảng 7 MB, cài trong vài giây, tự cập nhật về sau) — mở lên là dùng ngay. Máy đang dùng bản cũ: tool hỏi cài bản mới, bản cũ vẫn còn nguyên — chọn 'Mở bản cũ' nếu muốn dùng tiếp. ⏸ Nhắc lại: tích ô '⏸ Dừng cho tôi duyệt' cạnh nút ▶ Bắt đầu dịch để sửa bảng nhân vật và phụ đề ngay trong tool trước khi dịch và lồng tiếng.",
+    "message": "🎙 GIỌNG OFFLINE ĐỌC GỌN HƠN: tool tự bỏ tiếng lạ thừa ở cuối câu và tự đọc lại câu bị lặp nguyên câu, giúp bớt vấp khi lồng tiếng. Giọng Ngọc Huyền 2.0 và 3.0 đã được gỡ: máy nào đang dùng 2 giọng này sẽ tự chuyển sang Ngọc Huyền 4.0, video trong hàng chờ vẫn chạy bình thường, không cần chọn lại.",
     "chu_chay": [
       "🎉 Chúc cả nhà tháng 11 thật vui vẻ, nhiều sức khoẻ và làm video thật bùng nổ! Cảm ơn mọi người đã luôn đồng hành cùng PeiPei ❤️",
       "🚀 MỚI 1.5.107: Tải video hàng loạt có app mới (7 MB, cài vài giây, tự cập nhật) + ô ⏸ Dừng cho tôi duyệt để sửa xưng hô, phụ đề ngay trong tool. Cập nhật ngay nhé!",
