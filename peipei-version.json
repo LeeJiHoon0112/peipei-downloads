@@ -5,9 +5,9 @@
     "message": "Đã có bản cập nhật mới (1.0.2). Bấm 'Tải bản mới' để cài đè — giữ nguyên license & dữ liệu của bạn."
   },
   "peipei-reup": {
-    "latest_version": "1.5.108",
+    "latest_version": "1.5.109",
     "download_url": "https://github.com/LeeJiHoon0112/peipei-downloads/releases/download/v1.0/PeiPeiReup_Setup.exe",
-    "message": "🎙 GIỌNG OFFLINE ĐỌC GỌN HƠN: tool tự bỏ tiếng lạ thừa ở cuối câu và tự đọc lại câu bị lặp nguyên câu, giúp bớt vấp khi lồng tiếng. Giọng Ngọc Huyền 2.0 và 3.0 đã được gỡ: máy nào đang dùng 2 giọng này sẽ tự chuyển sang Ngọc Huyền 4.0, video trong hàng chờ vẫn chạy bình thường, không cần chọn lại.",
+    "message": "📥 TẢI VIDEO HÀNG LOẠT LÊN BẢN MỚI NHẤT: bấm nút '📥 Tải video hàng loạt' là tool cài thẳng bản mới (khoảng 8 MB, cài trong vài giây, tự cập nhật về sau). Máy đã cài app này sẽ tự tải bản mới khi mở, mở lại lần nữa là dùng được. Máy đang dùng bản cũ: tool hỏi cài bản mới, bản cũ vẫn còn nguyên — chọn 'Mở bản cũ' nếu muốn dùng tiếp.",
     "chu_chay": [
       "🎉 Chúc cả nhà tháng 11 thật vui vẻ, nhiều sức khoẻ và làm video thật bùng nổ! Cảm ơn mọi người đã luôn đồng hành cùng PeiPei ❤️",
       "🎙 MỚI 1.5.108: Giọng offline đọc gọn hơn, bớt vấp. Ngọc Huyền 2.0 và 3.0 đã gỡ, máy đang dùng sẽ tự chuyển sang Ngọc Huyền 4.0. Cập nhật ngay nhé!",
